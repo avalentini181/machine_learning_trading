@@ -1,1 +1,1 @@
-# machine_learning_trading
+# Machine Learning Trading
